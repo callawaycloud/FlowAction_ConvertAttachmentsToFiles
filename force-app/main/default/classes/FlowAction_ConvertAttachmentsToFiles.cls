@@ -1,7 +1,6 @@
 public with sharing class FlowAction_ConvertAttachmentsToFiles {
     /**
      * Flows cannot convert attachments to files b/c they do not support blobs
-     * https://help.salesforce.com/s/articleView?id=sf.flow_build_extend_apex.htm&type=5
      */
     @InvocableMethod(label='Convert Attachments To Files')
     public static List<FlowOutput> convertAttachmentsToFiles(List<FlowInput> flowInputs) {
