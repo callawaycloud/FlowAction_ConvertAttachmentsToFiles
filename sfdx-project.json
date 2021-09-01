@@ -14,6 +14,7 @@
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "FlowAction_ConvertAttachmentsToFiles": "0Ho5e00000000dtCAA",
-        "FlowAction_ConvertAttachmentsToFiles@0.1.0-1": "04t5e000000aNsoAAE"
+        "FlowAction_ConvertAttachmentsToFiles@0.1.0-1": "04t5e000000aNsoAAE",
+        "FlowAction_ConvertAttachmentsToFiles@0.1.0-2": "04t5e000000aNsyAAE"
     }
 }
