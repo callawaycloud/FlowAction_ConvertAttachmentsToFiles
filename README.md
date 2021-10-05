@@ -7,10 +7,10 @@ This means we need an invocable apex method to handle the conversion of attachme
 ## 📦 Install
 
 **via sfdx-cli**
-`sfdx force:package:install --package 0Ho5e00000000dtCAA -u your@org.user`
+`sfdx force:package:install --package 04t5e000000aNsyAAE -u your@org.user`
 
 **via url**
-login and navigate to [`/packaging/installPackage.apexp?p0=0Ho5e00000000dtCAA`](https://login.salesforce.com/packaging/installPackage.apexp?p0=0Ho5e00000000dtCAA). Choose `Install for: Admin Only`.
+login and navigate to [`/packaging/installPackage.apexp?p0=04t5e000000aNsyAAE`](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e000000aNsyAAE). Choose `Install for: Admin Only`.
 
 ## 🔨 Usage
 
